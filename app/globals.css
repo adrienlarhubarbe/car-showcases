@@ -201,7 +201,7 @@
 /* END: searchbar styles */
 
 /* START: search manufacturer styles */
-.search-manufacturer {
+.Search-manufacturer {
   @apply flex-1 max-sm:w-full flex justify-start items-center;
 }
 
